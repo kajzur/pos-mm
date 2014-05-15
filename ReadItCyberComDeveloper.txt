@@ -1,1 +1,1 @@
-Opis by³ doœc ma³o szczegó³owy, wiêc zrobi³em symulator. Losowane s¹ "skanowane" kody kreskowe i wyswietlany wynik na ekranie.
+Opis by³ doœc ma³o szczegó³owy, wiêc zrobi³em symulator. Skanowane kody kreskowe sa losowane.
