@@ -24,11 +24,13 @@ public class Panel extends JFrame {
 		this.setVisible(true);	
 	}
 	public void printPoduct(Product p) {
+		jta.setText("");
 		if(p.price!=0)
 			this.jta.append(p.name+": "+p.price+"\n");
 		else
 			this.jta.append(p.name+"\n");
 	}
+	
 	public void printString(String string, boolean isScanner) {
 		if(isScanner)
 			this.jta.append("I'm scanning: "+string+"\n");

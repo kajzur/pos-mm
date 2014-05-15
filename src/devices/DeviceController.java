@@ -33,7 +33,7 @@ public class DeviceController  {
 	public void run() throws InterruptedException {
 		
 		ArrayList<Product> prods = new ArrayList<Product>();
-		int i=13; // numer of product which will be scanned before exit;
+		int i=13; // number of product which will be scanned before exit;
 		while(true){
 			if(i==0)
 			{
